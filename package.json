@@ -1,0 +1,14 @@
+{
+  "name": "Node File IO",
+  "version": "1.0.0",
+  "description": "Node File IO",
+  "main": "src/visitor.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  },
+  "author": "Sakhe Hlela",
+  "license": "ISC"
+}
